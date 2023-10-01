@@ -43,12 +43,12 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "e1303d9a-106a-4620-a991-ae3f6a6ec371",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
+	 "image": "https://iili.io/JdXzl94.webp",
+	 "title": "Sneaky Sasquatch",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
 
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXzYcG.webp",
+	 "title": "Sneaky Sasquatch",
+	 "text": "Introduce seasonal events within the game that bring new challenges, items, and quests. For example, a winter update could involve snow-related activities like snowboarding, ice fishing, or even a snowball fight.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXzaSf.webp",
+	 "title": "Sneaky Sasquatch",
+	 "text": "Implement a multiplayer mode that allows players to team up or compete against each other in various activities. This could include races, scavenger hunts, or cooperative missions that require teamwork.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXz0Al.webp",
+	 "title": "Sneaky Sasquatch",
+	 "text": "Expand the customization features for the Sasquatch character. Allow players to personalize their Sasquatch with different outfits, accessories, and even the ability to decorate their hideout in the forest.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXz1N2.webp",
+	 "title": "Sneaky Sasquatch",
+	 "text": "Introduce new locations within the game world, such as a beach, a mountain range, or a mysterious cave system. Each area could come with its own set of challenges, activities, and secrets to uncover.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXzEtS.webp",
+	 "title": "Sneaky Sasquatch",
+	 "text": "Implement a dynamic day-night cycle that affects gameplay. Certain activities may only be available during specific times, and the Sasquatch may need to adapt to different challenges or opportunities depending on whether it's day or night.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
